@@ -19,5 +19,7 @@ public class Autos {
     // Método para vender
     public void vender() {
         venta = true;
+        
+        System.out.println("Mensaje prueba, hola");
     }
 }
